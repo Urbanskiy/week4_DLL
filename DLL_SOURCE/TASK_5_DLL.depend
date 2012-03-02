@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1330679267 source:c:\conf\task_5_dll\main.cpp
+	"main.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1330678596 c:\conf\task_5_dll\main.h
+	<windows.h>
+

@@ -1,0 +1,4 @@
+EXPORTS
+    ComputerTurn @1
+    PlayerTurn @2
+    PrintField @3

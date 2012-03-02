@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1330645163 source:c:\conf\hrestnol\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1330678469 source:c:\conf\Копия hrestnol\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1330680284 source:c:\conf\Копия_hrestnol\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1330680284 source:c:\conf\hrestnol-last\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1330680672 source:c:\conf\last\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
